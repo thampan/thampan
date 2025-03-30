@@ -7,6 +7,8 @@
 ## My Streak Stats 🔥  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=thampan&theme=highcontrast)  
 
+## ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+
 ## My Top Languages 🏆  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thampan&layout=compact)  
 
