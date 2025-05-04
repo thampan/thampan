@@ -2,15 +2,12 @@
 
 ## ![Profile Views](https://komarev.com/ghpvc/?username=thampan&color=blue)
 
-| Top Languages | GitHub Stats | Streak (no labels) |
-|---------------|--------------|--------------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thampan&layout=compact&langs_count=8) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thampan&show_icons=true&hide=stars&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=thampan&theme=default&hide_border=true) |
+| Top Languages | GitHub Stats |
+|---------------|--------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thampan&layout=compact&langs_count=8) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thampan&show_icons=true&hide=stars&count_private=true)
 
 
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=thampan&hide_title=true)
-
-
+## ![GitHub Streak](https://streak-stats.demolab.com?user=thampan&theme=default&hide_border=true)
 <!--
 
 ## Top Languages 🏆  
@@ -19,8 +16,7 @@
 ## GitHub Stats 🚀  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thampan&show_icons=true&hide=issues)  
 
-## GitHub Trophies 🏅  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thampan&theme=onedark) 
+
 
 **thampan/thampan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
