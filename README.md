@@ -6,9 +6,9 @@
 |---------------|--------------|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thampan&layout=compact&langs_count=8) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thampan&show_icons=true&hide=stars&count_private=true)
 
+<!--
 
 ## ![GitHub Streak](https://streak-stats.demolab.com?user=thampan&theme=default&hide_border=true)
-<!--
 
 ## Top Languages 🏆  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thampan&layout=compact)  
